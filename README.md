@@ -10,6 +10,7 @@ Building tools for **computational biology** and **clinical genomics**, with a f
 - [SpectraSnap](https://github.com/EtienneFeyrer/SpectraSnap.v1) - Fast MS/MS molecule retrieval using joint embeddings and FAISS  
 - [Multimodal Ensemble](https://github.com/EtienneFeyrer/multimodal-lesion-classifier.git) - Integrating heterogeneous biological data for predictive modeling  
 - [Clinical Prediction Tool](https://github.com/EtienneFeyrer/Clinical-Prediction-Tool.git) - Analyses tool for exposomics of NGS data with inbuild machine learning classifier
+- [Nextflow Pipeline for somatic variants](https://github.com/EtienneFeyrer/Sarek-AWS) - Sarek pipeline test on aws instance
 ---
 
 ### 🌐 Connect
